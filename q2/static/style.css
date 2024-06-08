@@ -1,0 +1,28 @@
+header {
+	text-align: center;
+	margin-top: 20px;
+}
+
+nav {
+	margin-top: 20px;
+}
+
+nav ul {
+	list-style-type: none;
+	display: flex;
+	justify-content: center;
+}
+
+nav ul li {
+	margin-right: 20px;
+}
+
+main {
+	margin-top: 20px;
+	text-align: center;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
